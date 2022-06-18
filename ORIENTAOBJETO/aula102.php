@@ -1,0 +1,6 @@
+<?php
+    //ENCAPSULAMENTO II.
+    //Todo objeto é por definição uma estrutura de dados ESPECIALIZADA, também chamada de tipo abstrato de dados. As estruturas de dados normalmente irão possuir membros de classe que armazenam valores, as VARIÁVEIS, e membros de classe que desempenham alguma ação, as FUNÇÕES.
+
+    //Todo membro de classe que for de uso interno da classe deve estar INACESSÍVEL externamente, e é bom observar que isso não é meramente uma OBSERVAÇÃO, mas sim um CONCEITO utilizado amplamente inclusive pela natureza. A ideia mais importante de encapsulamento é da sua capacidade de nós definirmos um novo tipo de informação e fazer com que as instâncias de seu novo tipo sejam capazes de manter a integridade de suas informações. Então a única maneira para nós mantermos a integridade é verifciando os dados que são enviados pelos membros de classe e estabelecendo através desses as regras para a correta atribuição das informações, então podemos dizer que encapsular implica na modificação da visibilidade dos membros de classe e portanto nós temos que fazer uso de algumas palavras chave para definir qual é a visibilidade que cada membro irá ter. 
+?>

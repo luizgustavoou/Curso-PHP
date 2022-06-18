@@ -1,0 +1,13 @@
+body {
+    background: rgba(43, 134, 238, 0.418);
+}
+table {
+    border: 1px solid rgba(0,0,0, 0.300);
+    border-spacing: 0px;
+}
+td {
+    border: 1px solid rgba(0, 0, 0, 0.300);
+}
+input#dep {
+    margin-top: 10px;
+}

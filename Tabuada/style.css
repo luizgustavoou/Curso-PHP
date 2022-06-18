@@ -1,0 +1,10 @@
+body {
+    background: rgb(47, 145, 226);
+}
+input:hover {
+    background-color: rgba(226, 68, 68, 0.897);
+    transition: 1s;
+}
+input {
+    margin-top: 10px;
+}

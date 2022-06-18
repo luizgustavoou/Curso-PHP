@@ -1,0 +1,31 @@
+input {
+    padding: 10px;
+    margin: 3px;
+}
+input#teste:hover {
+    box-shadow: 2px 2px 2px rgba(0, 0, 255, 0.253);
+    background: rgba(0, 0, 255, 0.164);
+    transition: 1s;
+}
+body {
+    background: rgba(33, 148, 255, 0.658);
+}
+header {
+    color: white;
+    text-align: center;
+}
+div {
+    background: white;
+    width: 500px;
+    border-radius: 15px;
+    padding: 8px;
+    margin: auto;
+}
+form {
+    width: 50%;
+    margin: auto;
+}
+p {
+    color: white;
+    text-align: center;
+}
